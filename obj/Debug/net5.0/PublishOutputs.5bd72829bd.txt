@@ -1,0 +1,522 @@
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/lawsite
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/css/bootstrap.css
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/css/font-awesome.min.css
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/css/materialize.css
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/css/style-mob.css
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/css/style.css
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/01.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/02.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/03.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/04.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/05.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/06.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/07.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/08.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/09.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/10.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/11.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/12.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/13.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/14.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/15.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/16.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/17.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/18.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/19.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/20.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/21.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/22.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/23.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/24.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/25.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/26.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/27.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/28.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/29.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/30.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/31.jpeg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/deputy_dean.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/enoch_adeagbo.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/moot_court.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/moot_court.png_Zone.Identifier_$DATA
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/student_class.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/student_class.png_Zone.Identifier_$DATA
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/student_class2.PNG
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/facilities/Thumbs.db
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/fontawesome-webfont5b62.eot
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/fontawesome-webfont5b62.svg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/fontawesome-webfont5b62.ttf
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/fontawesome-webfont5b62.woff
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/fontawesome-webfont5b62.woff2
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/fontawesome-webfontd41d.eot
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/glyphicons-halflings-regular-2.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/glyphicons-halflings-regular-3.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/glyphicons-halflings-regular-4.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/glyphicons-halflings-regular-5.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/glyphicons-halflings-regular.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/glyphicons-halflings-regulard41d.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/roboto/Roboto-Bold-2.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/roboto/Roboto-Bold.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/roboto/Roboto-Light-2.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/roboto/Roboto-Light.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/roboto/Roboto-Medium-2.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/roboto/Roboto-Medium.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/roboto/Roboto-Regular-2.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/roboto/Roboto-Regular.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/roboto/Roboto-Thin-2.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/fonts/roboto/Roboto-Thin.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/3.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/4.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/adv/1.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/adv/2.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/adv/3.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/adv/4.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/adv/5.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/adv/6.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/ami/1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/ami/10.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/ami/11.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/ami/2.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/ami/3.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/ami/4.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/ami/5.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/ami/6.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/ami/7.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/ami/8.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/ami/9.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/ban-bg.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/banner.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/bg-2.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/bg.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/bg/1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/bg/2.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/bg/3.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/bg/4.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/blog/2.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/blog/3.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/blog/4.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/blog/5.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/blog/6.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/book.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/cancel.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/course.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/course/3.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/course/4.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/course/5.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/course/sm-1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/course/sm-2.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/course/sm-3.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/course/sm-4.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/course/sm-5.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/course/sm-6.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/course/sm-7.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/course/sm-8.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/elizade_logo.ico
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/elizade_logo.ico_Zone.Identifier_$DATA
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/elizade_logo.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/elizade_logo.png_Zone.Identifier_$DATA
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/engineering.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/eulogo2.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/ev-bg.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/ev-bg1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/ev-bg2.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/ev-in-bg1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/event-bg.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/event/1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/event/2.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/event/3.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/event/4.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/facilities/1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/facilities/10.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/facilities/2.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/facilities/3.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/facilities/4.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/facilities/5.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/facilities/6.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/facilities/7.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/facilities/8.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/facilities/9.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/fav.ico
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/founder.mp4
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/founder1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/founder2.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/founder3.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/founder4.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/h-about.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/h-about1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/h-adm.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/h-adm1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/h-cam.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/h-cam1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/h-res.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/h-res1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/home-ser-bg.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/home-ser-bg1.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/awa/1.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/awa/10.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/awa/11.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/awa/12.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/awa/2.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/awa/3.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/awa/4.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/awa/5.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/awa/6.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/awa/7.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/awa/8.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/awa/9.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/cor1.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/cor3.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/cor4.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/cor5.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/db1.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/db2.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/db3.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/db4.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/db5.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/flag-1.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/flag-2.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/flag-3.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/flag-4.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/flag-5.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/flag-6.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/flag-7.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/flag-8.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/form-1.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/form-2.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/form-3.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/form-4.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/h-ic1.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/h-ic2.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/h-ic3.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/icon/h-ic4.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/1.jpg_Zone.Identifier_$DATA
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/2.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/2.jpg_Zone.Identifier_$DATA
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/3.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/3.jpg_Zone.Identifier_$DATA
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/4.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/5.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9155.JPG
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9159 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9165 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9167 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9173 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9175 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9176 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9183 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9186 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9197 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9210 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9211 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9213 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9219 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9222 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9235 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9236 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9242 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9246 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9247 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9258 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9260 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9279 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9283 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9290 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9296 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9299 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9322 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9324 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9330 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9331 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/DSC_9332 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/proffunmiadeleke.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/Thumbs.db
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/law/Thumbs.db_encryptable_$DATA
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/login.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/logo.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/logo1.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/map.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/mm-col-bg.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/placeholder.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/posternew.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/pro-bg.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/profiles/bursar.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/profiles/founder.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/profiles/registrar.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/profiles/Thumbs.db
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/profiles/Thumbs.db_encryptable_$DATA
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/profiles/vc.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/profiles/vc2.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/search.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/seminar-bg.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/slider/1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/slider/2.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/slider/3.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/slider/Thumbs.db
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/slider/Thumbs.db_encryptable_$DATA
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/sm/1.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/sm/2.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/sm/3.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/sm/4.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/sm/5.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/sm/6.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/sm/7.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/sprite.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/user.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/user/1.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/user/2.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/user/3.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/user/4.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/user/5.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/user/6.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/images/weather.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/img/contact/1.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/img/contact/2.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/img/contact/3.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/js/bootstrap.min.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/js/custom.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/js/main.min.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Content/js/materialize.min.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/css/site.css
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Documents/EULJ Volume 3 2020 Final (3).pdf
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Documents/EULJ Volume II 2019 (1) (1).pdf
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/01.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/02.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/03.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/04.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/05.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/06.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/07.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/08.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/09.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/10.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/11.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/12.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/13.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/14.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/15.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/16.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/17.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/18.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/19.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/20.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/21.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/22.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/23.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/24.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/25.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/26.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/27.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/28.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/29.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/30.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/31.jpeg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/deputy_dean.PNG
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/enoch_adeagbo.PNG
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/moot_court.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/moot_court.png_Zone.Identifier_$DATA
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/student_class.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/student_class.png_Zone.Identifier_$DATA
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/student_class2.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/facilities/Thumbs.db
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/favicon.ico
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/fonts/glyphicons-halflings-regular.eot
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/fonts/glyphicons-halflings-regular.svg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/fonts/glyphicons-halflings-regular.ttf
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/fonts/glyphicons-halflings-regular.woff
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/fonts/glyphicons-halflings-regular.woff2
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/bg-2.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/book.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/cancel.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/course.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/elizade_logo.ico
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/elizade_logo.ico_Zone.Identifier_$DATA
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/elizade_logo.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/elizade_logo.png_Zone.Identifier_$DATA
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/engineering.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/eulogo2.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/ev-bg.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/ev-bg1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/ev-bg2.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/ev-in-bg1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/event-bg.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/fav.ico
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/founder.mp4
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/founder1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/founder2.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/founder3.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/founder4.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/h-about1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/h-adm.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/h-adm1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/h-res.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/home-ser-bg.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/home-ser-bg1.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/awa/1.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/awa/10.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/awa/11.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/awa/12.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/awa/2.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/awa/3.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/awa/4.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/awa/5.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/awa/6.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/awa/7.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/awa/8.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/awa/9.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/cor1.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/cor3.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/cor4.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/cor5.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/db1.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/db2.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/db3.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/db4.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/db5.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/flag-1.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/flag-2.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/flag-3.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/flag-4.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/flag-5.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/flag-6.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/flag-7.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/flag-8.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/form-1.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/form-2.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/form-3.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/form-4.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/h-ic1.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/h-ic2.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/h-ic3.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/icon/h-ic4.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/1.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/1.jpg_Zone.Identifier_$DATA
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/11.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/2.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/2.jpg_Zone.Identifier_$DATA
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/22.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/3.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/3.jpg_Zone.Identifier_$DATA
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/33.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/4.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/5.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9155.JPG
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9159 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9165 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9167 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9173 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9175 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9176 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9183 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9186 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9197 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9210 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9211 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9213 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9219 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9222 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9235 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9236 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9242 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9246 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9247 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9258 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9260 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9279 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9283 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9290 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9296 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9299 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9322 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9324 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9330 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9331 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/DSC_9332 copy.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/proffunmiadeleke.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/Thumbs.db
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/law/Thumbs.db_encryptable_$DATA
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/login.html
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/map.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/mm-col-bg.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/posternew.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/pro-bg.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/profiles/bursar.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/profiles/founder.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/profiles/registrar.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/profiles/Thumbs.db
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/profiles/Thumbs.db_encryptable_$DATA
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/profiles/vc.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/profiles/vc2.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/search.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/slider/slide3.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/slider/slide4.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/slider/slide5.jpg
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/sm/1.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/sm/2.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/sm/3.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/sm/4.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/sm/5.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/sm/6.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/sm/7.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/images/weather.png
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/js/site.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/css/bootstrap.css
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/bootstrap/LICENSE
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/jquery-validation/dist/additional-methods.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/jquery-validation/dist/additional-methods.min.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/jquery-validation/dist/jquery.validate.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/jquery-validation/LICENSE.md
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/jquery/dist/jquery.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/jquery/dist/jquery.min.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/jquery/dist/jquery.min.map
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/lib/jquery/LICENSE.txt
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Scripts/bootstrap.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Scripts/bootstrap.min.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Scripts/jquery-3.4.1.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Scripts/jquery-3.4.1.min.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Scripts/jquery-3.4.1.min.map
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Scripts/jquery-3.4.1.slim.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Scripts/jquery-3.4.1.slim.min.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Scripts/jquery-3.4.1.slim.min.map
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Scripts/jquery.validate.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Scripts/jquery.validate.min.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Scripts/jquery.validate.unobtrusive.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Scripts/jquery.validate.unobtrusive.min.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Scripts/js/bootstrap.min.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Scripts/js/custom.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Scripts/js/main.min.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Scripts/js/materialize.min.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/wwwroot/Scripts/modernizr-2.8.3.js
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/appsettings.Development.json
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/appsettings.json
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/lawsite.dll
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/lawsite.deps.json
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/lawsite.runtimeconfig.json
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/lawsite.pdb
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/lawsite.Views.dll
+/home/tecspace/ASPproject/lawsite/bin/Debug/net5.0/publish/lawsite.Views.pdb
